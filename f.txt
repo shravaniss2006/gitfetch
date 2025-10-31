@@ -1,6 +1,1 @@
-in this i am adding the file for fetching the files
-
-updating the file on the remote repository
-
-adding the content on local sys
 
